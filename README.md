@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++, CSS, HTML</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: @mmishav[@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 vatmisha@gmail.com[your-email](mailto:your-email)</code>
+<code>💬 telegram: [@mmishav](https://telegram.me/your-nikname)</code>
+<code>📫 [vatmisha@gmail.com](mailto:your-email)</code>
